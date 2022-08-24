@@ -1,4 +1,4 @@
-# 4_entitylevel
+# Script to convert report-level display into named entity-level display
 
 This repository contains Python script that converts AI predicted annotation on report-level into named entity-level format.
 
